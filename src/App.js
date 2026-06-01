@@ -6,7 +6,7 @@ import {
 } from 'lucide-react';
 
 // --- CONFIGURAÇÃO DA API ---
-const API_BASE_URL = "http://localhost:3003";
+const API_BASE_URL = "https://api-fundacao-guia.onrender.com";
 
 // --- COMPONENTES DE UI ---
 
